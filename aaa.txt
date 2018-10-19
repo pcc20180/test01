@@ -4,4 +4,8 @@
 thank you
 see you
 
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaa
+=======
+fuck you
+>>>>>>> parent of d454914... w
