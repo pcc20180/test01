@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ‚±‚ñ‚É‚¿‚Í
 ¡‚Í11:23desu.
 
@@ -5,3 +6,5 @@ thank you
 see you
 
 aaaaaaaaaaaaaaaaaaaaaa
+=======
+>>>>>>> parent of 638b262... hello
