@@ -3,14 +3,3 @@
 ç°ÇÕ11:23desu.
 
 thank you
-see you
-
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaaa
-=======
-<<<<<<< HEAD
-fuck you
->>>>>>> parent of d454914... w
-=======
->>>>>>> parent of 638b262... hello
->>>>>>> 7234c3f4b961199d4686d8d9bc88ed92ad70ee6f
